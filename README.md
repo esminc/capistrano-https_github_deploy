@@ -1,6 +1,6 @@
 # Capistrano::HttpsGithubDeploy
 
-Capistrano plugin when use https github repogitory deploy.
+Capistrano plugin when use https github repository deploy.
 
 
 ## Installation
