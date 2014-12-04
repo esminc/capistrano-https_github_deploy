@@ -8,7 +8,7 @@ Capistrano plugin when use https github repogitory deploy.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'capistrano-https_github_deploy'
+gem 'capistrano-https_github_deploy', require: false
 ```
 
 And then execute:
