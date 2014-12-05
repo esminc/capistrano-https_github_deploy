@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["takkanm@gmail.com"]
   spec.summary       = %q{Capistrano plugin when use https github repogitory deploy}
   spec.description   = %q{Capistrano plugin when use https github repogitory deploy}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/esminc/capistrano-https_github_deploy"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
