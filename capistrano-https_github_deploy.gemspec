@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Capistrano::HttpsGithubDeploy::VERSION
   spec.authors       = ["takkanm"]
   spec.email         = ["takkanm@gmail.com"]
-  spec.summary       = %q{Capistrano plugin when use https github repogitory deploy}
-  spec.description   = %q{Capistrano plugin when use https github repogitory deploy}
+  spec.summary       = %q{Capistrano plugin when use https github repository deploy}
+  spec.description   = %q{Capistrano plugin when use https github repository deploy}
   spec.homepage      = "https://github.com/esminc/capistrano-https_github_deploy"
   spec.license       = "MIT"
 
