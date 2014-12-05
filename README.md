@@ -33,7 +33,6 @@ set :github_repo, "#{owner}/#{repo_name}"
 
 ### Use File
 
-First, create github token file
 First, create a file(e.g. ~/.github_token), such as the following.
 
 ```
